@@ -5,10 +5,10 @@ EduJourney is a mobile application that allows users to review Singapore Educati
 
 Application Demo Link: https://youtu.be/oe0tjP0MRtY
 
-## My Responsibility
-I mainly worked on the **back-end** of the application, using Firebase's Realtime Database Service to store information of Singapore Educational institutions into Firebase directly. I also used Firebase's built-in Unity API to retrieve and query the desired information for the front-end that was built using Unity. 
+## Work-Done
+I mainly worked on the planning such preperation such as use-case diagram,sequence diagram etc... Dabble abit on the **back-end** of the application, using Firebase's Realtime Database Service to store information of Singapore Educational institutions into Firebase directly. I also used Firebase's built-in Unity API to retrieve and query the desired information for the front-end.
 
-## Tech Stack
+## Technology used
 C#, Unity, Firebase
 
 ## Links
